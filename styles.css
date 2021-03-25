@@ -96,6 +96,7 @@ padding: 0.5rem 1rem;
     margin: auto;
 }
 
+
 .hero .hero-heading{
     color: var(--dark-grey);
     padding: 1rem;
@@ -127,6 +128,10 @@ padding: 0.5rem 1rem;
     border-top-left-radius: 1rem;
 }
 
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
 
 .footer .link{
     color: white;
