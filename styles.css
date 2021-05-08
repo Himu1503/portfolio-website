@@ -102,6 +102,8 @@ hr {
     color: var(--dark-grey);
     padding: 1rem;
     text-align: center;
+   animation-name: example ;
+   animation-duration: 4s;
 }
 
 /**section**/
@@ -141,4 +143,10 @@ hr {
 
 .footer ul {
     padding-inline-start: 0rem;
+}
+
+@keyframes example {
+    from {color: var(--dark-grey);}
+    to{color:red}
+    
 }
