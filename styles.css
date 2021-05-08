@@ -104,6 +104,7 @@ hr {
     text-align: center;
    animation-name: example ;
    animation-duration: 4s;
+   animation-iteration-count: infinite;
 }
 
 /**section**/
